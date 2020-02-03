@@ -3,9 +3,7 @@
 ### 主流开源协议之间有何异同？
 [参考URL](https://www.zhihu.com/question/19568896)
 
-![multi licences](licences.assets/licence differences.png)
-
-
+![licence differences](licences.assets/licence differences.png)
 
 ### github 官方指导
 [Choose an open source license](https://choosealicense.com/)
