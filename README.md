@@ -18,9 +18,10 @@
 
 ### 中文信息集合
 [开源之道](https://ocselected.org/)
+
 [开源的法律保护](https://ocselected.org/open-source-guide/legal/)
 
-![licence legal](licences.assets/licence legal.png)
+![licence legal](licences.assets/licence-legal.png)
 
 ### GNU ORG
 
