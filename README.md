@@ -3,18 +3,18 @@
 ### 主流开源协议之间有何异同？
 [参考URL](https://www.zhihu.com/question/19568896)
 
-![img](licences.assets/licence differences.png)
+![licence differences](licences.assets/licence-differences.png)
 
 ### github 官方指导
 [Choose an open source license](https://choosealicense.com/)
 [中文译文](http://choosealicense.online/)
 
-![difference](licences.assets/choose licence.png)
+![difference](licences.assets/choose-licence.png)
 
 ### a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
 [Web site](https://opensource.guide/)
 
-![open source guides](licences.assets/open source Guides.png)
+![open source guides](licences.assets/open-source-guide.png)
 
 ### 中文信息集合
 [开源之道](https://ocselected.org/)
@@ -27,7 +27,7 @@
 [Various Licenses and Comments about Them](http://www.gnu.org/licenses/license-list.html)
 
 
-![Various licenses and comments](licences.assets/various licences and commments from gnu.png)
+![Various licenses and comments](licences.assets/various-licences-and-commments-from-gnu.png)
 
 ### 长话短说
 
@@ -457,5 +457,3 @@ https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licens
 
 
 能改。版权所有者负责许可条款，只要你是唯一的贡献者，就可以轻松更改许可证。但是举一个极端的例子，如果Linus Torvald（Linux发明者）想要在不同的许可下发布Linux内核，他可能首先需要成千上万的贡献者同意该项目。这在实际情况中是不可能完成的。当然，在合理的情况下，是可以做到的。
-
-http://www.gnu.org/licenses/license-list.html)
