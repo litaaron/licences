@@ -3,7 +3,7 @@
 ### 主流开源协议之间有何异同？
 [参考URL](https://www.zhihu.com/question/19568896)
 
-![licence differences](licences.assets/licence differences.png)
+![img](licences.assets/licence differences.png)
 
 ### github 官方指导
 [Choose an open source license](https://choosealicense.com/)
@@ -20,11 +20,12 @@
 [开源之道](https://ocselected.org/)
 [开源的法律保护](https://ocselected.org/open-source-guide/legal/)
 
-![legal](licences.assets/licence legal.png)
+![licence legal](licences.assets/licence legal.png)
 
 ### GNU ORG
 
 [Various Licenses and Comments about Them](http://www.gnu.org/licenses/license-list.html)
+
 
 ![Various licenses and comments](licences.assets/various licences and commments from gnu.png)
 
